@@ -1,0 +1,7 @@
+github Pushing steps
+
+1. Initialize git with git init 
+2. add changes with git add .
+3. Commit changes with git commit -m "<message>"
+4. Link remote repo git remote add origin <ssh-url>
+5. Push to github using git push origin <branch>
